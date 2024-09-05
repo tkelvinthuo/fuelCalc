@@ -11,3 +11,4 @@ fuel(liter) = distance / avg fuel consumption\
 cash = fuel(liters) * price per liter\
 Database connection to store every successful calculation\
 Internet connection to scrap for the recent prices of fuel.\
+If no internet connection, use default values.\
