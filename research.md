@@ -1,6 +1,6 @@
-Variables to be used:-
-Fuel type: petrol and diesel
-Fuel prices
+Variables to be used:-\
+Fuel type: petrol and diesel\
+Fuel prices\n
 Vehicle type: suv, sedan, motorcycle, or truck
 Distance to be travelled
 Refuel points
